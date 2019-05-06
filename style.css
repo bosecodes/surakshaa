@@ -6,7 +6,7 @@
 	width: 100%;
 	color: #05386b;
 	border-radius: 25px;
-	font-family: 'Gugi', cursive;
+	font-family: 'Crete Round', cursive;
 }
 body{
 	background-color: #5cdb95;
@@ -26,7 +26,7 @@ body{
 .previous_passwords{
 	margin-bottom: 20px;
 	color: #05386b;
-	font-family: 'Gugi', cursive;
+	font-family: 'Crete Round', cursive;
 }
 
 #length{
@@ -34,5 +34,5 @@ body{
 	width : 100px;
 }
 .jojo{
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Crete Round', sans-serif;
 }
